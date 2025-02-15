@@ -1,0 +1,13 @@
+name = "gs904_transit"
+author = "WornOutWanderer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "84e15f18f61a86ff977605b35e6ffd683c6261e07797bc450ebd347a3f39d9f8"
+
+[versions]
+fabric = "0.15.2"
+minecraft = "1.19.2"
