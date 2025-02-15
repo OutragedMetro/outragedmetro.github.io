@@ -1,0 +1,297 @@
+hash-format = "sha256"
+
+[[files]]
+file = ",gitattributes"
+hash = "aa5b2a6255df5fd0123a17046351ee9c48e85dc6ffa79fd6d5fa56ea2e17e379"
+
+[[files]]
+file = ".github/workflows/go.yml"
+hash = "ff6d03ba04879bc90e1e371168b00481db4c6513ed0d08895002e90a8688f355"
+
+[[files]]
+file = ".github/workflows/nix-lock-update.yml"
+hash = "a3119c81bd6c4323b62f994d80b58ebdffe71a655b4b4f0f994b2b7d1d736cd6"
+
+[[files]]
+file = ".github/workflows/nix.yml"
+hash = "7f19d3b9965c3b594b1df957f9476b635badf60dce9c43f02a0073e33d5a4362"
+
+[[files]]
+file = ".goreleaser.yml"
+hash = "2b400fba8447eb3f5e88763cc7016a2a25c2b92558376150b7683948553577e8"
+
+[[files]]
+file = "LICENSE"
+hash = "1562a639d7aeab4f9ab3a262e0c96c593b29a99b55031fd1ec8394ee6dd77727"
+
+[[files]]
+file = "README.md"
+hash = "26cf927ee85e8b8d5209791f4dc5b81dcb1229c6267fa562ddd038b3918b16ff"
+
+[[files]]
+file = "cmd/init.go"
+hash = "deac34f9efcb16d3f6af6ec8e0872192eeb578ab0686099734f5ca58fe7cd57d"
+
+[[files]]
+file = "cmd/list.go"
+hash = "7eb2a54144e311b4fee8198a2fad162cf1f3f4275902c6f2e1d9ec9bfa69ac50"
+
+[[files]]
+file = "cmd/pin.go"
+hash = "1f823714d6b0f1c4699ba1562f77e2f82f1909b0aea1ff0b1f193da80170041e"
+
+[[files]]
+file = "cmd/refresh.go"
+hash = "c9b9aba61bb73bcb51c2b2d17ebf67e18e9655eef3c9314f36d832b0606ad5f8"
+
+[[files]]
+file = "cmd/rehash.go"
+hash = "09a4006592fd03f7501c8a906bab5441828f835821b6b2ce30aee3f485c192a4"
+
+[[files]]
+file = "cmd/remove.go"
+hash = "42c5f61b67978235fd1fd4000db0eca3609d17fe54c69d93451d84bfeedae7e6"
+
+[[files]]
+file = "cmd/root.go"
+hash = "a5cb240587c0106de090b07ad6e257ed25d1f040676eeb31b4243739ca49c63a"
+
+[[files]]
+file = "cmd/serve-templates/index.html"
+hash = "00122692afca9eabc0b5fc89757d08da5f8267f2472553e2e5c559992a608bd1"
+
+[[files]]
+file = "cmd/serve.go"
+hash = "4ba03f656223aa27e56a593c504eff65ae79c28bdd887622cf69f5282aff230d"
+
+[[files]]
+file = "cmd/update.go"
+hash = "4b6daab00c2059b6f54b10b77e030104adf9bea3e5ebc3a4e9fbf8769335b562"
+
+[[files]]
+file = "cmdshared/downloadutil.go"
+hash = "d1285b54e6b174a9db2471a7d223579905a8b48b41526b5904821aa302c866cf"
+
+[[files]]
+file = "cmdshared/mcversion.go"
+hash = "7a676f4b0afa8044e92c46df53651b29b8d23f8c01b11e740cb5ad5f0980055a"
+
+[[files]]
+file = "cmdshared/prompt.go"
+hash = "06ed5434110dcd2e4d3016402c42f4c16dc46dabdd49fa2d0669eb7aeb4f7451"
+
+[[files]]
+file = "cmdshared/utils.go"
+hash = "bc28db1d278d162e12b3ba4c98c7a5e48c06050e65bfeb095a04f70b69b8106a"
+
+[[files]]
+file = "core/download.go"
+hash = "70fd879b85e865b4df529b59315f0b9d5367d2bc078e93307be4ad720ff7bb6f"
+
+[[files]]
+file = "core/hash.go"
+hash = "b58b4738f0e7dd95f1b7fc1b7517999cceedc108f9ebbd11d85c86a151f1cd33"
+
+[[files]]
+file = "core/index.go"
+hash = "09708c58b0d2510fb5e0fea5bbbd907517618bf588d9b85bd7dc67fead3055ab"
+
+[[files]]
+file = "core/indexfiles.go"
+hash = "9dca5fdb5c5db13a30408a56473dce22c5683a60f208b99facedf5dbe0347704"
+
+[[files]]
+file = "core/interfaces.go"
+hash = "0650b43769e648e258ed892fdf9c3d0b86849ce0843928aab83d340f1d7dfbca"
+
+[[files]]
+file = "core/mod.go"
+hash = "7d329d80ebc453c6d3fb57453c5859fea7ac1d60d29e8db4f7819bfa236f3370"
+
+[[files]]
+file = "core/pack.go"
+hash = "767d56f4986fbda6232901541a0dde32d07db6bfa0a0eb3d4193eadece17034a"
+
+[[files]]
+file = "core/resolve.go"
+hash = "f9a4c4e61a969f7d42330aa77772744bd1658244a42e64195507feb0ccda549d"
+
+[[files]]
+file = "core/storeutil.go"
+hash = "afea389ea3675f780af7f114a92700d73bc365a5faa47c499bc9ba1c04746849"
+
+[[files]]
+file = "core/urlutil.go"
+hash = "d62d128ac702a0dabe65409bbbad169ff9c527a834fb15a57ba4dd0d509fc2c7"
+
+[[files]]
+file = "core/versionutil.go"
+hash = "5f0caedb348a0d8a069b5acffcbd9e7ab25ac868389bddf44cedbc23b5e34378"
+
+[[files]]
+file = "curseforge/cursedir_other.go"
+hash = "386b8388dc0608555b6d742ed377d87c1e5d973a9f56c74f447e5de2155caf21"
+
+[[files]]
+file = "curseforge/cursedir_windows.go"
+hash = "20c84db29fde1daa0b09a392effcdb1e3cf40f5adedbec50e233620fb5b695e4"
+
+[[files]]
+file = "curseforge/curseforge.go"
+hash = "495cf2f53385a3a4e6b8463aa33a27271f29cca940c5882445c240483412a595"
+
+[[files]]
+file = "curseforge/detect.go"
+hash = "44964450cc7a26d532e700cdcc151449bfd7ad32ef0dfbf8252a7da298e4fde2"
+
+[[files]]
+file = "curseforge/export.go"
+hash = "5fb8bf8229f8e026d82a47f006f65862102496b5b91ad040cfb2ea4b851b16c6"
+
+[[files]]
+file = "curseforge/import.go"
+hash = "5bed094c497ed6ac28c128729acf589e598ae2d1876c94c1e1ab7fe6efd182b5"
+
+[[files]]
+file = "curseforge/install.go"
+hash = "747e8c64b408d2258c90ae05b7a8c46731254a09fd03ab49b1c7381b7d8b7e75"
+
+[[files]]
+file = "curseforge/murmur2/hash.go"
+hash = "dec70cba6b03b0e33c622e6f478c0c813e036ebcad25bd4b16f776c232f911a3"
+
+[[files]]
+file = "curseforge/open.go"
+hash = "36dc46e9cc1df5b055a67700fcc369f09c005107853b58e0eea9e925598e67d4"
+
+[[files]]
+file = "curseforge/packinterop/disk.go"
+hash = "4a9e4b30e0aeb3fbf327364e1dfb42fc93051f739626891df71c627db370b675"
+
+[[files]]
+file = "curseforge/packinterop/interfaces.go"
+hash = "4269bf3f58f85ea006cec1424142ed397b7b3d3fa4ffa513ae71f9227e45d59a"
+
+[[files]]
+file = "curseforge/packinterop/manifest.go"
+hash = "36850b6856eb81c7fa95bcaf3a645d00a965a763c288af2cd0848e92f95473f8"
+
+[[files]]
+file = "curseforge/packinterop/minecraftinstance.go"
+hash = "8b06983b8baf6f030aa8b7b303734887e6c718918521a113c75c44cecbbf7980"
+
+[[files]]
+file = "curseforge/packinterop/translation.go"
+hash = "ccd23d38c62dd099bb715d5c17305bdcd0f593a7095ba75bc8bc19bd59e18a23"
+
+[[files]]
+file = "curseforge/packinterop/zip.go"
+hash = "880b63bbe5e2d340bbf37371911ff72aeddc53d91a2c89ae6f15063eeb696673"
+
+[[files]]
+file = "curseforge/request.go"
+hash = "0a54a2dafd3089df15dd27c534539fc7c340925127fad0520cb3a785c30075f5"
+
+[[files]]
+file = "flake.lock"
+hash = "81d064287bd5da6a247ebdd01ea7179d0f984bc1691e144ac945829f174dcddb"
+
+[[files]]
+file = "flake.nix"
+hash = "e18eecac6d6509121305357466f95814cb4963eb86cca765295f057710075eff"
+
+[[files]]
+file = "github/github.go"
+hash = "c7eb2b21ac3feadec540e8c61b59dad71ec26649248da8443a3ae446beafe890"
+
+[[files]]
+file = "github/install.go"
+hash = "a70f47819a8a440922c79be22d7cd06b719de7dac04fa57b31d392811a4479cd"
+
+[[files]]
+file = "github/request.go"
+hash = "eaa2eb342a5152219b9c82bdf6cb721b9f4ef8be7e1ce62ab58e979e9a2a8f71"
+
+[[files]]
+file = "github/updater.go"
+hash = "38bd66ce4489bd9ccd5529b60fdaceff254659c254c29599408f1fcd7cddd6f4"
+
+[[files]]
+file = "go.mod"
+hash = "b00c4641d34323046066fccb9e899e631d908b9eb52fa83740117e4d6e5fb78b"
+
+[[files]]
+file = "go.sum"
+hash = "5437d21c705566985407d41cf7c8bd97c08adecbf3d2f77d7e27ba04792c1e2e"
+
+[[files]]
+file = "main.go"
+hash = "91e4e2d9c64d172b4bd03cf4f3b2e4d5cad9e0c40daf059142d087e577cfe04b"
+
+[[files]]
+file = "migrate/loader.go"
+hash = "707cc7babcc8d5490d77705b6a559ebb92c45d0c5680891a67fdd82ac05acfb5"
+
+[[files]]
+file = "migrate/migrate.go"
+hash = "0832db2ff4dc9ad0a9deeb1b9aca16331951ee5941e2412075d3a0e36414ae2c"
+
+[[files]]
+file = "migrate/minecraft.go"
+hash = "f5e7849790a05567236830439d544a63e124a6fe5f6d7e35b9ebfbe9a78a2947"
+
+[[files]]
+file = "modrinth/export.go"
+hash = "09e198eca6eb91dff19c18a3097e3188c5669847b9762e698e4f1c8a6bfc9c95"
+
+[[files]]
+file = "modrinth/install.go"
+hash = "6217055d4ea0cbef5c28c2d162c06d7d913215da12487e9207e3b52e9e4a5342"
+
+[[files]]
+file = "modrinth/modrinth.go"
+hash = "0b283e9247e149b3812032e5756ad5e9fbc9553233b39b10daa325361dc8a4a3"
+
+[[files]]
+file = "modrinth/pack.go"
+hash = "aa1ae23d7c597b192d61ba74937d3d8f1ddcfd87ed2e175009782f2be11f64d4"
+
+[[files]]
+file = "modrinth/updater.go"
+hash = "c2a292c078f417a0053fb854e84ab506e665ffb3e597af7becce40e235037e74"
+
+[[files]]
+file = "nix/default.nix"
+hash = "40c584f7a49a94186ccb96d6434be2b17e046788ac9390d1b4b29228bfd8eed2"
+
+[[files]]
+file = "nix/prefetcher.nix"
+hash = "b975f0c8ae21926bcb1e9fa44898b6ff4e084c046e68028debe7db761bceb6ee"
+
+[[files]]
+file = "nix/vendor-sha256"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "settings/acceptable_versions.go"
+hash = "6da32d679cf5bfd0da97f3c0988db1fe557f5e999dffb2ab243f2af19429a13b"
+
+[[files]]
+file = "settings/settings.go"
+hash = "cfe10f6c2a87cb650877b5f12f43048ff0accadecfb8e18c66ff95bf1242a1e3"
+
+[[files]]
+file = "url/install.go"
+hash = "3a75dfa402f905c774b65efca9e6b87671e20c48c46f61336a6664246d248d74"
+
+[[files]]
+file = "url/url.go"
+hash = "c52a9bcd19c5796141ff6c4ca85fa548a87b4d8ed0ebea6b8c1e5de34e87282d"
+
+[[files]]
+file = "utils/markdown.go"
+hash = "cc4382a312a7ce82513ed52242dbf21c054f236e18b078c3d8fe16464a846686"
+
+[[files]]
+file = "utils/utils.go"
+hash = "4fd34075d87ad10e811a3721cf12c02e24a236a860edc4b85e8fe972f503dabe"
